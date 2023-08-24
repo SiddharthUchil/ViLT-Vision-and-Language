@@ -2,7 +2,8 @@
 
 ViLT-GPT is an innovative application that gives the conversational AI ChatGPT the ability to "see". By integrating OpenAI's Language Models (LLM) and LangChain with Vision-and-Language models, this app can answer queries based on the content of images. Now, you can interact with your images, ask questions and get informative responses.
 
-![ViLT](https://github.com/SiddharthUchil/ViLT-Vision-and-Language/assets/36127139/c02a97c4-5eee-45f0-ba87-eabd12ef153f)
+![vilt](https://github.com/SiddharthUchil/ViLT-Vision-and-Language/assets/36127139/e9abca5b-fdd0-48a3-9ea6-dd1b40c1d25e)
+
 
 ## Getting Started
 
